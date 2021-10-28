@@ -1,14 +1,14 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: 'Mood-Board-2afe458831e144fa9818060e1ad17017',
+  rootNotionPageId: 'fcb549197e464fb8813f6efd04bee8fe',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '摄影交流',
-  domain: 'https://xjvnet.notion.site/47c6db62440b4b5e8fc5d82a33ceaefe',
+  name: '舒适生活',
+  domain: 'https://www.notion.so/xjvnet/fcb549197e464fb8813f6efd04bee8fe',
   author: 'Oleg',
 
   // open graph metadata (optional)
